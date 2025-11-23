@@ -5,12 +5,12 @@ sql
 ````md
 # Day 10/30 — SQL Interview Question (Medium)
 
-## 📌 Problem: Monthly Transaction Summary  
-For each **month and country**, find:
-- Total number of transactions  
-- Total transaction amount  
-- Number of approved transactions  
-- Approved transaction amount  
+/*
+Write an SQL query to find for each month and country, 
+the number of transactions and their total amount, 
+the number of approved transactions and their total amount.
+
+*/
 
 ---
 
